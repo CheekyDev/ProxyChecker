@@ -1,0 +1,13 @@
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.exe.config
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.exe
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.pdb
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\bin\Debug\Leaf.xNet.dll
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\bin\Debug\Leaf.xNet.xml
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.Form1.resources
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.Properties.Resources.resources
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csproj.GenerateResource.cache
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csproj.CopyComplete
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.exe
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.pdb
+C:\Users\misha\source\repos\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csproj.CoreCompileInputs.cache
